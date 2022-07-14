@@ -1,4 +1,6 @@
-# Mercurius Federation Subscription Bug
+# Mercurius Federation Gateway Issue
+
+After upgrading from Nest V8 to V9
 
 ## Steps
 
